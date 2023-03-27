@@ -1,4 +1,4 @@
-package strategy;
+package behavioral.strategy;
 
 public class Bird extends Animal {
 	public Bird() {

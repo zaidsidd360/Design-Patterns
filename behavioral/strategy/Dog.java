@@ -1,4 +1,4 @@
-package strategy;
+package behavioral.strategy;
 
 public class Dog extends Animal {
 	public void digHole() {
