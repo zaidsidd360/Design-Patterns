@@ -1,6 +1,6 @@
 package behavioral.observer;
 
-public class GrabStocks {
+public class Main {
 
 	public static void main(String[] args) {
 		StockGrabber stockGrabber = new StockGrabber();
